@@ -9,7 +9,6 @@
 - [Metodologia](#metodologia)
 - [Resultados](#resultados)
 - [Autor](#autor)
-- [Licença](#licença)
 
 ## Visão Geral
 Este projeto implementa um sistema de **Machine Learning com foco em Fairness** para prever o risco de evasão de estudantes universitários. A solução combina técnicas preditivas com análise de viés algorítmico para garantir equidade entre diferentes grupos demográficos, especialmente entre **bolsistas e não bolsistas**.
@@ -101,3 +100,9 @@ Desenvolvemos um sistema que:
 | **Acurácia** | 84.64% | 83.44% | 1.2% |
 
 **Trade-off aceitável**: Redução de 1.2% na acurácia para ganho de >60% em fairness!
+
+## Autor
+
+**Ingrid Vasconcelos**  
+[![GitHub](https://img.shields.io/badge/-Ingrid_Vasconcelos-181717?logo=github&logoColor=white)](https://github.com/Ingridvasc)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ingrid-vasconcelos-18635a230/)
